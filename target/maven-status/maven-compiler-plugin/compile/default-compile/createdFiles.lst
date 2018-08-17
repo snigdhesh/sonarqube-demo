@@ -1,0 +1,3 @@
+com\example\sonardemo\controllers\HelloController.class
+com\example\sonardemo\utils\Utility.class
+com\example\sonardemo\SonarDemoApplication.class
